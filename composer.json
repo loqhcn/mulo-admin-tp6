@@ -7,13 +7,15 @@
             "email": "474693310@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": "^7.1"
+    },
     "autoload": {
         "psr-4": {
             "mulo\\admin\\": "src"
         },
         "files": [
-            "src/command.php"
+            "src/main.php"
         ]
     }
 }
