@@ -1,0 +1,19 @@
+{
+    "name": "mulo/mulo-admin-tp6",
+    "description": "a fast build admin package",
+    "authors": [
+        {
+            "name": "罗戚洪",
+            "email": "474693310@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "mulo\\admin\\": "src"
+        },
+        "files": [
+            "src/command.php"
+        ]
+    }
+}
