@@ -2,9 +2,9 @@
 
 namespace mulo\admin\middleware;
 
-class Application{
+class Auth{
 
-    
+
     /**
      * 注册应用的路由
      *
