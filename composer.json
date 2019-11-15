@@ -13,7 +13,8 @@
     },
     "autoload": {
         "psr-4": {
-            "mulo\\admin\\": "src"
+            "mulo\\admin\\": "src",
+            "app\\admin\\": "app"
         },
         "files": [
             "src/main.php"

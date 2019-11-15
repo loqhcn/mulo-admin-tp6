@@ -12,8 +12,8 @@ class Application
      */
     static function init()
     {
-        Route::group('admin', function () {
-            Route::rule('', 'blog/read');
+        Route::rule('admin1', function () {
+           return 'dsfasfd';
         });
     }
 

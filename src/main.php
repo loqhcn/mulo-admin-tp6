@@ -2,4 +2,4 @@
 
 
 use mulo\admin\Application;
-Application::init(); 
+// Application::init(); 
