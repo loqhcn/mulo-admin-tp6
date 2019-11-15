@@ -7,4 +7,4 @@ echo 'mulo123123';
 use mulo\admin\Application;
 Application::init(); 
 
-echo '123123';
+echo '123123123123';
