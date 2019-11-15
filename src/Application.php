@@ -2,6 +2,7 @@
 
 namespace mulo\admin;
 
+use think\facade\Route;
 class Application
 {
     /**
